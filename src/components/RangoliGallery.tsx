@@ -3,7 +3,7 @@ import { useState } from "react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Eye, Palette, PaletteIcon } from "lucide-react";
+import { Eye, Palette, PaletteIcon, BookOpen } from "lucide-react";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 
 const RangoliGallery = () => {
